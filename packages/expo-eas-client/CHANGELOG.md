@@ -4,7 +4,7 @@
 
 ### 🛠 Breaking changes
 
-- Change package name.
+- Change package name. ([#16884](https://github.com/expo/expo/pull/16884) by [@wschurman](https://github.com/wschurman))
 
 ### 🎉 New features
 
